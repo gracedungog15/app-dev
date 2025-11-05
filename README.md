@@ -42,7 +42,7 @@ I really enjoyed this movie because of its **fast-paced storyline** and *empower
 
 ---
 
-### 📌 Task List
+###  Task List
 
 * Watch the movie
 * Write Markdown summary
